@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/* ======================================== */
+/* functional styles required by Javascript */
+/* ======================================== */
+.is-dragging ul.delete, .is-dragging ul.done {
+  opacity: 1;
+}
+
+ul.connected li.is-editing {
+  background: #999999;
+  background-image: -webkit-linear-gradient(#999999, #8c8c8c);
+  background-image: linear-gradient(#999999, #8c8c8c);
+}
+
+ul.connected li input {
+  display: none;
+}
+ul.connected li.is-editing input {
+  display: block;
+}
+ul.connected li.is-editing span {
+  display: none;
+}
+ul.connected li.is-done {
+  text-decoration: line-through;
+  color: #666666;
+  background-image: -webkit-linear-gradient(#333333, #262626);
+  background-image: linear-gradient(#333333, #262626);
+}
