@@ -1,0 +1,992 @@
+[
+    {
+        "category": "生活",
+        "news_count": 29,
+        "news": [
+            {
+                "title": "比序不公平?　家長急陳情(599)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399506/比序不公平?　家長急陳情",
+                "time": "14:25",
+                "video": true
+            },
+            {
+                "title": "國中會考　學障生聽「報讀機」應考(365)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399526/國中會考　學障生聽「報讀機」應考",
+                "time": "14:02",
+                "video": false
+            },
+            {
+                "title": "心靜PK30度高溫　過敏生不吹冷氣(424)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399516/心靜PK30度高溫　過敏生不吹冷氣",
+                "time": "13:49",
+                "video": true
+            },
+            {
+                "title": "國中會考　高市府籲公布高雄區各科級距(409)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399470/國中會考　高市府籲公布高雄區各科級距",
+                "time": "13:35",
+                "video": false
+            },
+            {
+                "title": "會考英語閱讀測驗難　英聽易作答(595)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399520/會考英語閱讀測驗難　英聽易作答",
+                "time": "13:29",
+                "video": false
+            },
+            {
+                "title": "400名寶寶奮力爬　爸媽喊破嚨笑開懷(686)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399501/400名寶寶奮力爬　爸媽喊破嚨笑開懷",
+                "time": "13:09",
+                "video": false
+            },
+            {
+                "title": "【更新】會考台東鬧水災　熱心騎士送遲到學...(1207)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399510/【更新】會考台東鬧水災　熱心騎士送遲到學生",
+                "time": "16:11",
+                "video": true
+            },
+            {
+                "title": "來來來　同志們今大方站出來(542)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399589/來來來　同志們今大方站出來",
+                "time": "15:48",
+                "video": false
+            },
+            {
+                "title": "【更新】麥當勞好忙　徵才同時被抗議薪水低(1060)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399576/【更新】麥當勞好忙　徵才同時被抗議薪水低",
+                "time": "15:33",
+                "video": true
+            },
+            {
+                "title": "會考分析：英文試題活潑　聽力簡單(484)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399572/會考分析：英文試題活潑　聽力簡單",
+                "time": "15:23",
+                "video": false
+            },
+            {
+                "title": "都教授怎麼縮水啦？(590)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399581/都教授怎麼縮水啦？",
+                "time": "15:20",
+                "video": false
+            },
+            {
+                "title": "【更新】會考可吃巧克力？　心路歷程誰人知(1545)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399414/【更新】會考可吃巧克力？　心路歷程誰人知",
+                "time": "15:05",
+                "video": false
+            },
+            {
+                "title": "午餐弊案宣判　朱立倫：無罪校長復職(575)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399559/午餐弊案宣判　朱立倫：無罪校長復職",
+                "time": "14:58",
+                "video": false
+            },
+            {
+                "title": "【多圖】迷你滾筒洗衣機　17分鐘速洗(627)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399564/【多圖】迷你滾筒洗衣機　17分鐘速洗",
+                "time": "14:55",
+                "video": false
+            },
+            {
+                "title": "越南518遊行　赴越台商銳減　(457)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399549/越南518遊行　赴越台商銳減　",
+                "time": "14:45",
+                "video": false
+            },
+            {
+                "title": "揭開神祕面紗　芳苑燈塔開放參觀(408)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399537/揭開神祕面紗　芳苑燈塔開放參觀",
+                "time": "14:39",
+                "video": false
+            },
+            {
+                "title": "假日二手尋寶　惜福不浪費(389)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399548/假日二手尋寶　惜福不浪費",
+                "time": "14:31",
+                "video": true
+            },
+            {
+                "title": "國際反恐同日　同志團體凱道辦哀悼(1297)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399469/國際反恐同日　同志團體凱道辦哀悼",
+                "time": "11:50",
+                "video": false
+            },
+            {
+                "title": "被預言活不過20歲　肌萎生力拼高中(538)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399446/被預言活不過20歲　肌萎生力拼高中",
+                "time": "11:44",
+                "video": true
+            },
+            {
+                "title": "考前摔斷腿　最擔心「考完不能玩」(581)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399431/考前摔斷腿　最擔心「考完不能玩」",
+                "time": "11:40",
+                "video": false
+            },
+            {
+                "title": "會考自然考題靈活　圖表多、重概念與理解(650)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399462/會考自然考題靈活　圖表多、重概念與理解",
+                "time": "11:37",
+                "video": true
+            },
+            {
+                "title": "會考首科自然　考生多說簡單(633)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399456/會考首科自然　考生多說簡單",
+                "time": "11:30",
+                "video": false
+            },
+            {
+                "title": "花蓮會考77人缺席　創歷年之冠(596)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399447/花蓮會考77人缺席　創歷年之冠",
+                "time": "11:09",
+                "video": false
+            },
+            {
+                "title": "北捷又有事　300乘客受影響(1371)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399445/北捷又有事　300乘客受影響",
+                "time": "11:00",
+                "video": false
+            },
+            {
+                "title": "因病不得離院　直接在醫院考會考(655)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399491/因病不得離院　直接在醫院考會考",
+                "time": "12:42",
+                "video": false
+            },
+            {
+                "title": "越南反中遊行　回台班機仍有400空位(760)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399489/越南反中遊行　回台班機仍有400空位",
+                "time": "12:28",
+                "video": false
+            },
+            {
+                "title": "首次12年國教會考　新北四萬生參與(99)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399487/首次12年國教會考　新北四萬生參與",
+                "time": "12:22",
+                "video": false
+            },
+            {
+                "title": "會考自然科　估至少對46題達精熟(679)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399483/會考自然科　估至少對46題達精熟",
+                "time": "12:19",
+                "video": false
+            },
+            {
+                "title": "愛pet希望日　認養寵物送嫁妝(179)",
+                "url": "www.appledaily.com.tw/realtimenews/article/life/20140517/399486/愛pet希望日　認養寵物送嫁妝",
+                "time": "12:14",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "FUN",
+        "news_count": 6,
+        "news": [
+            {
+                "title": "數千活屍趴趴走　當人當鬼自己挑(424)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fun/20140517/399544/數千活屍趴趴走　當人當鬼自己挑",
+                "time": "14:22",
+                "video": true
+            },
+            {
+                "title": "【祕密客】我生氣，但我不是豬～(210)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fun/20140517/399599/【祕密客】我生氣，但我不是豬～",
+                "time": "16:10",
+                "video": false
+            },
+            {
+                "title": "一鍵駭客　用手機入侵ATM與交通號誌(562)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fun/20140517/399560/一鍵駭客　用手機入侵ATM與交通號誌",
+                "time": "14:49",
+                "video": true
+            },
+            {
+                "title": "不必渡海的雙心石滬　在田裡(397)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fun/20140517/399511/不必渡海的雙心石滬　在田裡",
+                "time": "14:38",
+                "video": true
+            },
+            {
+                "title": "一教就會！　山羊練電音B-BOX(449)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fun/20140517/399442/一教就會！　山羊練電音B-BOX",
+                "time": "11:19",
+                "video": true
+            },
+            {
+                "title": "讓人笑到流淚又同意　秒懂男人和女人的區別(1376)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fun/20140517/399436/讓人笑到流淚又同意　秒懂男人和女人的區別",
+                "time": "11:02",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "社會",
+        "news_count": 35,
+        "news": [
+            {
+                "title": "新世紀舞廳槍擊　作案贓車未熄火露餡(666)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399535/新世紀舞廳槍擊　作案贓車未熄火露餡",
+                "time": "14:21",
+                "video": true
+            },
+            {
+                "title": "酒駕有代駕　大型警備車專送14人 (679)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399541/酒駕有代駕　大型警備車專送14人",
+                "time": "14:20",
+                "video": false
+            },
+            {
+                "title": "半夜亂丟菸蒂引火?　68戶鄰居陪他不睡覺(997)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399517/半夜亂丟菸蒂引火?　68戶鄰居陪他不睡覺",
+                "time": "14:11",
+                "video": true
+            },
+            {
+                "title": "軍人載妹夜遊　車插樹人斷骨(2858)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399485/軍人載妹夜遊　車插樹人斷骨",
+                "time": "13:55",
+                "video": true
+            },
+            {
+                "title": "退休校長：被輕判的校長大家都知道有拿錢(1787)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399339/退休校長：被輕判的校長大家都知道有拿錢",
+                "time": "13:51",
+                "video": false
+            },
+            {
+                "title": "裸女站崗機車行前　被誤ＳＧ(5031)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399482/裸女站崗機車行前　被誤ＳＧ",
+                "time": "13:45",
+                "video": false
+            },
+            {
+                "title": " 失業男偷零錢　遇警盤查落網(384)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399521/失業男偷零錢　遇警盤查落網",
+                "time": "13:36",
+                "video": false
+            },
+            {
+                "title": "年輕詐騙集團成員　賺黑心錢炫富養小三(1115)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399493/年輕詐騙集團成員　賺黑心錢炫富養小三",
+                "time": "13:34",
+                "video": false
+            },
+            {
+                "title": "新月橋啟用贈悠遊卡　發放時間偷跑惹民怨(283)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399522/新月橋啟用贈悠遊卡　發放時間偷跑惹民怨",
+                "time": "13:28",
+                "video": false
+            },
+            {
+                "title": "開車門搜刮遇警　心虛逃跑當場被逮(659)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399507/開車門搜刮遇警　心虛逃跑當場被逮",
+                "time": "13:06",
+                "video": false
+            },
+            {
+                "title": "偷車被逮　進警局再偷警察隨身碟(214)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399592/偷車被逮　進警局再偷警察隨身碟",
+                "time": "16:15",
+                "video": false
+            },
+            {
+                "title": "醫生兒找母吃飯　母疑中暑暴斃漁塭畔(538)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399591/醫生兒找母吃飯　母疑中暑暴斃漁塭畔",
+                "time": "16:05",
+                "video": false
+            },
+            {
+                "title": "看不爽就打！　男大學生與死神拔河(1362)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399580/看不爽就打！　男大學生與死神拔河",
+                "time": "15:29",
+                "video": false
+            },
+            {
+                "title": "【更新】工人跌4米深下水道　警消吊掛救援(1070)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399508/【更新】工人跌4米深下水道　警消吊掛救援",
+                "time": "15:27",
+                "video": true
+            },
+            {
+                "title": "刁民違停趕不走　辱罵衝撞全都來(1166)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399518/刁民違停趕不走　辱罵衝撞全都來",
+                "time": "15:02",
+                "video": false
+            },
+            {
+                "title": "太魯閣錐麓古道　遊客墜谷(895)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399562/太魯閣錐麓古道　遊客墜谷",
+                "time": "14:54",
+                "video": false
+            },
+            {
+                "title": "太熱消暑？　男與警消水中追逐(1177)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399432/太熱消暑？　男與警消水中追逐",
+                "time": "14:48",
+                "video": false
+            },
+            {
+                "title": "幫妳抓「小強」　斯文男專找美女襲胸(1667)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399556/幫妳抓「小強」　斯文男專找美女襲胸",
+                "time": "14:46",
+                "video": false
+            },
+            {
+                "title": "出去淨化不用等我　5天後尋獲遺體(1524)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399528/出去淨化不用等我　5天後尋獲遺體",
+                "time": "14:41",
+                "video": false
+            },
+            {
+                "title": "​M-POLICE人臉辨識建功　助失智婦...(327)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399543/​M-POLICE人臉辨識建功　助失智婦返家",
+                "time": "14:39",
+                "video": false
+            },
+            {
+                "title": "40米橋樑上街　左彎右閃好驚險(608)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399513/40米橋樑上街　左彎右閃好驚險",
+                "time": "14:34",
+                "video": false
+            },
+            {
+                "title": "防考生睡過頭！　樹林警重機待命(601)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399529/防考生睡過頭！　樹林警重機待命",
+                "time": "14:34",
+                "video": false
+            },
+            {
+                "title": "「冰的」腋下凍抹條　掉下來就糗了(1009)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399540/「冰的」腋下凍抹條　掉下來就糗了",
+                "time": "14:29",
+                "video": false
+            },
+            {
+                "title": "太瞎！　警車前闖紅燈違規左轉(1584)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399451/太瞎！　警車前闖紅燈違規左轉",
+                "time": "11:48",
+                "video": false
+            },
+            {
+                "title": "婦人溺斃地下道　丈夫誓言：「要給太太真相...(16212)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399415/婦人溺斃地下道　丈夫誓言：「要給太太真相」",
+                "time": "11:35",
+                "video": true
+            },
+            {
+                "title": "賊改名改不掉本性　照樣遭警方活逮(685)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399430/賊改名改不掉本性　照樣遭警方活逮",
+                "time": "10:56",
+                "video": false
+            },
+            {
+                "title": "不老毒蟲趴　11嫌年紀合計破500歲(907)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399502/不老毒蟲趴　11嫌年紀合計破500歲",
+                "time": "12:56",
+                "video": false
+            },
+            {
+                "title": "誆幫同鄉辦電話卡　3千元轉賣詐騙集團(462)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399504/誆幫同鄉辦電話卡　3千元轉賣詐騙集團",
+                "time": "12:55",
+                "video": false
+            },
+            {
+                "title": "蜘蛛大盜祖師爺再栽　斥警：勞師動眾(666)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399494/蜘蛛大盜祖師爺再栽　斥警：勞師動眾",
+                "time": "12:51",
+                "video": false
+            },
+            {
+                "title": "比鄰租屋開賭場　半百姐妹花一同遭逮(556)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399499/比鄰租屋開賭場　半百姐妹花一同遭逮",
+                "time": "12:45",
+                "video": false
+            },
+            {
+                "title": "合法掩護非法　「吉祥」一點也不吉祥(1351)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399480/合法掩護非法　「吉祥」一點也不吉祥",
+                "time": "12:21",
+                "video": false
+            },
+            {
+                "title": "【更新】好貴！彎道撞貨車　跑車追撞爆頭(77580)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399440/【更新】好貴！彎道撞貨車　跑車追撞爆頭",
+                "time": "12:14",
+                "video": false
+            },
+            {
+                "title": "「讓你愧疚一輩子」　女跨窗欲跳樓(2075)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399475/「讓你愧疚一輩子」　女跨窗欲跳樓",
+                "time": "12:07",
+                "video": false
+            },
+            {
+                "title": "引擎室有異音　小黃燒起來(1116)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399467/引擎室有異音　小黃燒起來",
+                "time": "12:01",
+                "video": false
+            },
+            {
+                "title": "仿聲鳥飛到基隆　快閃割闌尾(946)",
+                "url": "www.appledaily.com.tw/realtimenews/article/local/20140517/399458/仿聲鳥飛到基隆　快閃割闌尾",
+                "time": "11:53",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "動物",
+        "news_count": 2,
+        "news": [
+            {
+                "title": "汪星人變主考官　想入學要看牠心情(302)",
+                "url": "www.appledaily.com.tw/realtimenews/article/animal/20140517/399542/汪星人變主考官　想入學要看牠心情",
+                "time": "14:21",
+                "video": false
+            },
+            {
+                "title": "【更新】「主人存心要牠死」　狠心棄犬全都...(2152)",
+                "url": "www.appledaily.com.tw/realtimenews/article/animal/20140517/399255/【更新】「主人存心要牠死」　狠心棄犬全都錄",
+                "time": "16:07",
+                "video": true
+            }
+        ]
+    },
+    {
+        "category": "財經",
+        "news_count": 8,
+        "news": [
+            {
+                "title": "瑞銀：台股Q3有望攀升　獲利年增優於去年(445)",
+                "url": "www.appledaily.com.tw/realtimenews/article/finance/20140517/399546/瑞銀：台股Q3有望攀升　獲利年增優於去年",
+                "time": "14:17",
+                "video": false
+            },
+            {
+                "title": "高港金屬物流倉儲動土　年營收上看百億(432)",
+                "url": "www.appledaily.com.tw/realtimenews/article/finance/20140517/399579/高港金屬物流倉儲動土　年營收上看百億",
+                "time": "15:38",
+                "video": false
+            },
+            {
+                "title": "葡萄牙今天脫離紓困計劃　苦日子還沒結束(539)",
+                "url": "www.appledaily.com.tw/realtimenews/article/finance/20140517/399569/葡萄牙今天脫離紓困計劃　苦日子還沒結束",
+                "time": "14:57",
+                "video": false
+            },
+            {
+                "title": "想跟柏南克聚餐　755萬台幣拿來(294)",
+                "url": "www.appledaily.com.tw/realtimenews/article/finance/20140517/399565/想跟柏南克聚餐　755萬台幣拿來",
+                "time": "14:49",
+                "video": false
+            },
+            {
+                "title": "瑞銀看多美元 看空歐元日圓(331)",
+                "url": "www.appledaily.com.tw/realtimenews/article/finance/20140517/399523/瑞銀看多美元看空歐元日圓",
+                "time": "14:40",
+                "video": false
+            },
+            {
+                "title": "臉書執行長薩克柏賣股　套現1029億台幣(512)",
+                "url": "www.appledaily.com.tw/realtimenews/article/finance/20140517/399557/臉書執行長薩克柏賣股　套現1029億台幣",
+                "time": "14:38",
+                "video": false
+            },
+            {
+                "title": "林文伯：作業員含加班　平均月薪逾3萬元(1429)",
+                "url": "www.appledaily.com.tw/realtimenews/article/finance/20140517/399472/林文伯：作業員含加班　平均月薪逾3萬元",
+                "time": "11:51",
+                "video": false
+            },
+            {
+                "title": "林文伯：不反對富人稅　但應擴大稅基(1367)",
+                "url": "www.appledaily.com.tw/realtimenews/article/finance/20140517/399459/林文伯：不反對富人稅　但應擴大稅基",
+                "time": "11:29",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "時尚",
+        "news_count": 6,
+        "news": [
+            {
+                "title": "運動也能賣騷！英國版蕾拉娜設計透視帽T(547)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fashion/20140517/399531/運動也能賣騷！英國版蕾拉娜設計透視帽T",
+                "time": "14:15",
+                "video": false
+            },
+            {
+                "title": "包準有型！章子怡黑白look配咖小黃包 (577)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fashion/20140517/399439/包準有型！章子怡黑白look配咖小黃包",
+                "time": "13:47",
+                "video": false
+            },
+            {
+                "title": "YOHJI BOOST狠腳色　全球只有5...(81)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fashion/20140517/399550/YOHJIBOOST狠腳色　全球只有500雙",
+                "time": "16:24",
+                "video": false
+            },
+            {
+                "title": "最瞎街拍！李蒨蓉短腿踩到臭水溝(828)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fashion/20140517/399536/最瞎街拍！李蒨蓉短腿踩到臭水溝",
+                "time": "15:06",
+                "video": false
+            },
+            {
+                "title": "熊黛林老模失算　不敵鋒女郎腰術(1212)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fashion/20140517/399435/熊黛林老模失算　不敵鋒女郎腰術",
+                "time": "11:29",
+                "video": false
+            },
+            {
+                "title": "珠寶滿logo　一起認識Damiani(598)",
+                "url": "www.appledaily.com.tw/realtimenews/article/fashion/20140517/399287/珠寶滿logo　一起認識Damiani",
+                "time": "10:40",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "國際",
+        "news_count": 11,
+        "news": [
+            {
+                "title": "平內亂　烏克蘭首富一根手指就能搞定？(1194)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399515/平內亂　烏克蘭首富一根手指就能搞定？",
+                "time": "14:03",
+                "video": false
+            },
+            {
+                "title": "美情侶變態嗜好　拍15歲童飛踢8歲弟(663)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399577/美情侶變態嗜好　拍15歲童飛踢8歲弟",
+                "time": "15:55",
+                "video": true
+            },
+            {
+                "title": "​越518遊行　我籲台商避開中國使館(407)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399574/​越518遊行　我籲台商避開中國使館",
+                "time": "15:34",
+                "video": false
+            },
+            {
+                "title": "越南518遊行　規劃多處台商避難所​(369)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399568/越南518遊行　規劃多處台商避難所​",
+                "time": "15:27",
+                "video": false
+            },
+            {
+                "title": "【更新】寮國墜軍機　傳國防部長等22人死(2003)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399512/【更新】寮國墜軍機　傳國防部長等22人死",
+                "time": "14:33",
+                "video": false
+            },
+            {
+                "title": "瑞士明公投最低工資　拚月薪13.5萬(695)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399547/瑞士明公投最低工資　拚月薪13.5萬",
+                "time": "14:30",
+                "video": false
+            },
+            {
+                "title": "網路約人獸交　女、男、狗玩3P(2899)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399450/網路約人獸交　女、男、狗玩3P",
+                "time": "11:28",
+                "video": false
+            },
+            {
+                "title": "越南明大遊行　​​旅遊警示調全境黃色(1329)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399505/越南明大遊行　​​旅遊警示調全境黃色",
+                "time": "12:51",
+                "video": false
+            },
+            {
+                "title": "越南518反中遊行　日本也緊張(1310)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399500/越南518反中遊行　日本也緊張",
+                "time": "12:48",
+                "video": false
+            },
+            {
+                "title": "一個國家兩個世界　北韓真實照片流出　(11157)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399473/一個國家兩個世界　北韓真實照片流出　",
+                "time": "12:46",
+                "video": false
+            },
+            {
+                "title": "歐洲每年浪費億噸食物　擬改「保存期限」標...(1181)",
+                "url": "www.appledaily.com.tw/realtimenews/article/international/20140517/399465/歐洲每年浪費億噸食物　擬改「保存期限」標籤",
+                "time": "11:58",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "娛樂",
+        "news_count": 13,
+        "news": [
+            {
+                "title": "《校園大人物》轉台王　慘被罰吃狗食(876)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399457/《校園大人物》轉台王　慘被罰吃狗食",
+                "time": "13:54",
+                "video": false
+            },
+            {
+                "title": "【歐巴時間】歐巴大叔差很大　鄭雨盛肌肉→...(1777)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399294/【歐巴時間】歐巴大叔差很大　鄭雨盛肌肉→贅肉",
+                "time": "13:30",
+                "video": false
+            },
+            {
+                "title": "癌末粉絲最後夢想　復仇者聯盟攜手完願(384)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399600/癌末粉絲最後夢想　復仇者聯盟攜手完願",
+                "time": "16:21",
+                "video": false
+            },
+            {
+                "title": "【更新】飛鳥涼驗尿顯示吸毒　住家起出安非...(7532)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399455/【更新】飛鳥涼驗尿顯示吸毒　住家起出安非他命",
+                "time": "16:15",
+                "video": false
+            },
+            {
+                "title": "【更新】「國民老公」傳買春買到變性人(4250)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399533/【更新】「國民老公」傳買春買到變性人",
+                "time": "16:11",
+                "video": false
+            },
+            {
+                "title": "【坎城影展】溜鳥俠直搗醜女貝蒂　襲蛋強吻...(841)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399530/【坎城影展】溜鳥俠直搗醜女貝蒂　襲蛋強吻裸奔",
+                "time": "15:30",
+                "video": false
+            },
+            {
+                "title": "【快訊】藍正龍周幼婷結婚照甜爆(107066)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399479/【快訊】藍正龍周幼婷結婚照甜爆",
+                "time": "15:02",
+                "video": false
+            },
+            {
+                "title": "莎莎手技卡卡　征服不了那顆ball(960)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399519/莎莎手技卡卡　征服不了那顆ball",
+                "time": "14:50",
+                "video": false
+            },
+            {
+                "title": "達比修有前妻買醉過夜　黏新歡不管兒子死活(3359)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399292/達比修有前妻買醉過夜　黏新歡不管兒子死活",
+                "time": "11:15",
+                "video": false
+            },
+            {
+                "title": "紀培慧深V裝大人　兔子玩偶露饀(1792)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399492/紀培慧深V裝大人　兔子玩偶露饀",
+                "time": "13:03",
+                "video": true
+            },
+            {
+                "title": "【奶姬妹】本周10大娛樂事　正宮吳佩慈鬥...(2451)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399358/【奶姬妹】本周10大娛樂事　正宮吳佩慈鬥小三最吸睛",
+                "time": "12:45",
+                "video": false
+            },
+            {
+                "title": "明星躲狗仔　怪招百出(1465)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399481/明星躲狗仔　怪招百出",
+                "time": "12:18",
+                "video": false
+            },
+            {
+                "title": " 全裸就會瘦！長澤雅美脫光光美容法(4251)",
+                "url": "www.appledaily.com.tw/realtimenews/article/entertainment/20140517/399347/ 全裸就會瘦！長澤雅美脫光光美容法",
+                "time": "12:00",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "政治",
+        "news_count": 11,
+        "news": [
+            {
+                "title": "扁出現吞嚥障礙　醫療小組憂：嚴重恐窒息(1572)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399532/扁出現吞嚥障礙　醫療小組憂：嚴重恐窒息",
+                "time": "13:54",
+                "video": false
+            },
+            {
+                "title": "綠提增立委席次　吳敦義：關鍵在效率(146)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399601/綠提增立委席次　吳敦義：關鍵在效率",
+                "time": "16:20",
+                "video": false
+            },
+            {
+                "title": "幹幹哥現身　自嘲「以前演戲怎都不會紅」(763)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399586/幹幹哥現身　自嘲「以前演戲怎都不會紅」",
+                "time": "16:08",
+                "video": false
+            },
+            {
+                "title": "越南暴動台商受害　吳敦義：越應以公權力約...(188)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399597/越南暴動台商受害　吳敦義：越應以公權力約束國民",
+                "time": "16:07",
+                "video": false
+            },
+            {
+                "title": "謝長廷貼長鼻小木偶照　諷馬英九綠卡說不清...(1650)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399463/謝長廷貼長鼻小木偶照　諷馬英九綠卡說不清楚",
+                "time": "11:46",
+                "video": false
+            },
+            {
+                "title": "壓力大　林飛帆：很多不得不做的事(3122)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399461/壓力大　林飛帆：很多不得不做的事",
+                "time": "11:39",
+                "video": false
+            },
+            {
+                "title": "黃國昌、林飛帆、陳為廷　明組「島國前進」(24211)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399452/黃國昌、林飛帆、陳為廷　明組「島國前進」",
+                "time": "11:17",
+                "video": true
+            },
+            {
+                "title": "因應518越南遊行　跨部會因應輸運(619)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399498/因應518越南遊行　跨部會因應輸運",
+                "time": "12:41",
+                "video": false
+            },
+            {
+                "title": "網傳王丹死於六四？　網友：終於承認有死人...(3629)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399484/網傳王丹死於六四？　網友：終於承認有死人了",
+                "time": "12:19",
+                "video": false
+            },
+            {
+                "title": "柯文哲連勝文初會　握手零互動(1082)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399478/柯文哲連勝文初會　握手零互動",
+                "time": "12:12",
+                "video": false
+            },
+            {
+                "title": "身材胖　連勝文自嘲被叫神豬不介意 (1196)",
+                "url": "www.appledaily.com.tw/realtimenews/article/politics/20140517/399474/身材胖　連勝文自嘲被叫神豬不介意",
+                "time": "12:07",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "體育",
+        "news_count": 10,
+        "news": [
+            {
+                "title": "世界球后妹妹謝淑映登場　晉雲林全大運女雙...(328)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399539/世界球后妹妹謝淑映登場　晉雲林全大運女雙4強",
+                "time": "13:50",
+                "video": false
+            },
+            {
+                "title": "美國職棒今日戰績(395)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399527/美國職棒今日戰績",
+                "time": "13:37",
+                "video": false
+            },
+            {
+                "title": "【球星練肖話】Lamigo菜鳥陳禹勳　舞...(392)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399525/【球星練肖話】Lamigo菜鳥陳禹勳　舞技一流？",
+                "time": "13:25",
+                "video": true
+            },
+            {
+                "title": "花蓮最會轟　彭政閔生涯第8支全壘打(43)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399603/花蓮最會轟　彭政閔生涯第8支全壘打",
+                "time": "16:25",
+                "video": false
+            },
+            {
+                "title": "【更新】彭政閔陽春砲　象隊5比6落後(1972)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399497/【更新】彭政閔陽春砲　象隊5比6落後",
+                "time": "16:19",
+                "video": false
+            },
+            {
+                "title": "LPGA金斯米爾錦標賽第2回合　曾雅妮暫...(453)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399471/LPGA金斯米爾錦標賽第2回合　曾雅妮暫並列12",
+                "time": "11:46",
+                "video": false
+            },
+            {
+                "title": "【NBA季後賽】雷霆中鋒伊巴卡報銷　西區...(846)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399460/【NBA季後賽】雷霆中鋒伊巴卡報銷　西區決賽無法上場",
+                "time": "11:31",
+                "video": false
+            },
+            {
+                "title": "【MLB】金鶯提爾曼生涯首場完封(655)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399454/【MLB】金鶯提爾曼生涯首場完封",
+                "time": "11:20",
+                "video": true
+            },
+            {
+                "title": "【MLB】達比修好投無用　遊騎兵熄火遭完...(1110)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399449/【MLB】達比修好投無用　遊騎兵熄火遭完封",
+                "time": "11:03",
+                "video": true
+            },
+            {
+                "title": "【MLB】先發投手1局爆　李振昌3局就登...(1916)",
+                "url": "www.appledaily.com.tw/realtimenews/article/sports/20140517/399438/【MLB】先發投手1局爆　李振昌3局就登板1.1局無失分",
+                "time": "10:45",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "地產",
+        "news_count": 3,
+        "news": [
+            {
+                "title": "【房市黑白集】養地大揭密　超商駐店轉手賺...(387)",
+                "url": "www.appledaily.com.tw/realtimenews/article/property/20140517/399490/【房市黑白集】養地大揭密　超商駐店轉手賺千萬",
+                "time": "13:45",
+                "video": false
+            },
+            {
+                "title": "給他按個讚！　豪宅營造商出讓第3碗飯(398)",
+                "url": "www.appledaily.com.tw/realtimenews/article/property/20140517/399590/給他按個讚！　豪宅營造商出讓第3碗飯",
+                "time": "15:55",
+                "video": false
+            },
+            {
+                "title": "林慶台重整荒廢教會　建築營造人熱血相挺(307)",
+                "url": "www.appledaily.com.tw/realtimenews/article/property/20140517/399573/林慶台重整荒廢教會　建築營造人熱血相挺",
+                "time": "14:54",
+                "video": true
+            }
+        ]
+    },
+    {
+        "category": "搜奇",
+        "news_count": 7,
+        "news": [
+            {
+                "title": "騙雞置身大自然　給它戴這個　(897)",
+                "url": "www.appledaily.com.tw/realtimenews/article/strange/20140517/399496/騙雞置身大自然　給它戴這個　",
+                "time": "13:12",
+                "video": false
+            },
+            {
+                "title": "俄小鎮村民集體患怪病　離奇昏睡還失憶(194)",
+                "url": "www.appledaily.com.tw/realtimenews/article/strange/20140517/399593/俄小鎮村民集體患怪病　離奇昏睡還失憶",
+                "time": "16:17",
+                "video": false
+            },
+            {
+                "title": "臉書好友幾千個　APP幫你刪(518)",
+                "url": "www.appledaily.com.tw/realtimenews/article/strange/20140517/399567/臉書好友幾千個　APP幫你刪",
+                "time": "15:08",
+                "video": false
+            },
+            {
+                "title": "男到Subway點餐　帶走馬桶水箱(601)",
+                "url": "www.appledaily.com.tw/realtimenews/article/strange/20140517/399561/男到Subway點餐　帶走馬桶水箱",
+                "time": "14:56",
+                "video": false
+            },
+            {
+                "title": "有神快拜！　不過祂長得好像電影明星(1082)",
+                "url": "www.appledaily.com.tw/realtimenews/article/strange/20140517/399466/有神快拜！　不過祂長得好像電影明星",
+                "time": "11:45",
+                "video": false
+            },
+            {
+                "title": "交往時甜蜜凍精卵　分手後男反悔要回(1153)",
+                "url": "www.appledaily.com.tw/realtimenews/article/strange/20140517/399453/交往時甜蜜凍精卵　分手後男反悔要回",
+                "time": "11:20",
+                "video": false
+            },
+            {
+                "title": "【地球圖輯隊】埃及人面獅身現身中國(343)",
+                "url": "www.appledaily.com.tw/realtimenews/article/strange/20140517/399503/【地球圖輯隊】埃及人面獅身現身中國",
+                "time": "12:35",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "正妹",
+        "news_count": 4,
+        "news": [
+            {
+                "title": "蘿莉系正咩巧巧　看了不溶化都難(1754)",
+                "url": "www.appledaily.com.tw/realtimenews/article/beauty/20140517/399563/蘿莉系正咩巧巧　看了不溶化都難",
+                "time": "15:49",
+                "video": true
+            },
+            {
+                "title": "閃到快眼瞎　好亮的車頭燈　(979)",
+                "url": "www.appledaily.com.tw/realtimenews/article/beauty/20140517/399514/閃到快眼瞎　好亮的車頭燈　",
+                "time": "14:33",
+                "video": false
+            },
+            {
+                "title": "美女球迷太正　我也好想踢足球！(1457)",
+                "url": "www.appledaily.com.tw/realtimenews/article/beauty/20140517/399509/美女球迷太正　我也好想踢足球！",
+                "time": "12:44",
+                "video": false
+            },
+            {
+                "title": " 小雪女神爆乳洩春光　網友：活著真好(3529)",
+                "url": "www.appledaily.com.tw/realtimenews/article/beauty/20140517/399488/小雪女神爆乳洩春光　網友：活著真好",
+                "time": "12:28",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "臉團",
+        "news_count": 3,
+        "news": [
+            {
+                "title": "【PTTradio】 動身吧！朝聖香港電...(401)",
+                "url": "www.appledaily.com.tw/realtimenews/article/facebook/20140517/399588/【PTTradio】動身吧！朝聖香港電影場景！",
+                "time": "15:40",
+                "video": false
+            },
+            {
+                "title": "【電腦王阿達】Sony推出大感光元件相機...(1156)",
+                "url": "www.appledaily.com.tw/realtimenews/article/facebook/20140517/399448/【電腦王阿達】Sony推出大感光元件相機：α7S攝錄通吃、α77Ⅱ單眼新秀、RX100Ⅲ隨身機王",
+                "time": "11:05",
+                "video": false
+            },
+            {
+                "title": "【生活情報讚】爸爸，我們什麼時候可以去釣...(416)",
+                "url": "www.appledaily.com.tw/realtimenews/article/facebook/20140517/399399/【生活情報讚】爸爸，我們什麼時候可以去釣魚？",
+                "time": "12:26",
+                "video": false
+            }
+        ]
+    },
+    {
+        "category": "瘋啥",
+        "news_count": 2,
+        "news": [
+            {
+                "title": "都敏俊靠邊閃　加1元多1支才夯(335)",
+                "url": "www.appledaily.com.tw/realtimenews/article/3c/20140517/399551/都敏俊靠邊閃　加1元多1支才夯",
+                "time": "14:32",
+                "video": false
+            },
+            {
+                "title": "蘋果Google和解　與三星繼續訴訟(605)",
+                "url": "www.appledaily.com.tw/realtimenews/article/3c/20140517/399444/蘋果Google和解　與三星繼續訴訟",
+                "time": "11:01",
+                "video": false
+            }
+        ]
+    }
+]
