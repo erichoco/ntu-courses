@@ -86,7 +86,7 @@ exports.reposition = function (req, res) {
     var target = {};
     for (var i = curList.length - 1; i >= 0; i--) {
       if (targetId === curList[i].id) {
-        target = curList.splice(i, 1);
+        target = curList.splice(i, 1)[0];
         break;
       }
     }
